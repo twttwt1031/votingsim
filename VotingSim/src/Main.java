@@ -19,15 +19,7 @@ import sim.util.MersenneTwisterFast;
 import sim.util.Ranking;
 import sim.voter.*;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author drew
- */
 public class Main {
     
     
